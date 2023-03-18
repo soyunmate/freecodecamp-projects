@@ -1,1 +1,1 @@
-# sql-celestial-bodies-project
+# Project from freecodecamp
